@@ -37,9 +37,12 @@ DVCS ( 분산 버전 관리 시스템 )
 
 # git 사용하기 
 
-
-## git 설치하기 
+### git 설치하기 
 [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
+
+버전확인 방법 
+`git --version` 
+
 
 ---
 ### 버전관리를 들어보지 못한 사람들을 위한 DVCS - Git
