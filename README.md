@@ -43,8 +43,10 @@ DVCS ( 분산 버전 관리 시스템 )
 [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
 
 버전확인 방법 
-`git --version` 
+```git --version
 
+git version 2.24.1 (Apple Git-126) 
+``` 
 
 ---
 ### 버전관리를 들어보지 못한 사람들을 위한 DVCS - Git
