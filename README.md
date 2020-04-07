@@ -1,4 +1,4 @@
-# git 
+# git 이란 ?
 
 프로그램 등의 소스 코드 관리를 위해 2005년에 개발된 분산 버전 관리 시스템(DVCS)."리누스 토르발스"가 BitKeeper 유료화에 자극받아 리눅스 커널 프로젝트에 사용하기 위해 개발.
 네트워크에 접근하거나 중앙 서버에 의존하지 않고도 사용 가능.
@@ -33,3 +33,16 @@ DVCS ( 분산 버전 관리 시스템 )
 * 대표적으로 Git / Mercurial
 
 
+
+
+# git 사용하기 
+
+
+## git 설치하기 
+[https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
+
+---
+### 버전관리를 들어보지 못한 사람들을 위한 DVCS - Git
+[https://www.slideshare.net/ibare/dvcs-git](https://www.slideshare.net/ibare/dvcs-git)
+
+### 출저 : 패스트캠퍼스 
