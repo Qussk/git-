@@ -33,8 +33,9 @@ DVCS ( 분산 버전 관리 시스템 )
 
 ## Git 데이터 작동방식 
 
-! [Git - Snapshot](/image/gitimage.jpeg)
-format : Git - Snapshot
+![Snapshot](/image/gitimage.jpeg)
+   format : Git - Snapshot
+
 
 # git 사용하기 
 
