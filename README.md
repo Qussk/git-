@@ -50,5 +50,8 @@ DVCS ( 분산 버전 관리 시스템 )
 ### 버전관리를 들어보지 못한 사람들을 위한 DVCS - Git
 [https://www.slideshare.net/ibare/dvcs-git](https://www.slideshare.net/ibare/dvcs-git)
 
+### 튜토리얼 시작하기 - Learn Git Branching
+[https://learngitbranching.js.org/?locale=ko](https://learngitbranching.js.org/?locale=ko)
+
 ### 출저 : 패스트캠퍼스 
 
